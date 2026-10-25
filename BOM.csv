@@ -1,8 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Raspberry Pi Pico,DigiKeys,$4.59,$4.59,https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793
-Switch Tactile SPST-NO 0.05A 24V,DigiKeys,$0.13,$0.26,https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536
-Switch Toggle SPDT 0.4VA 20V,DigiKeys,$3.94,$3.94,https://www.digikey.com/en/products/detail/e-switch/200MSP1T1B2M2RE/4027688
-Slide Pot 10K OHM 0.2W TOP 30MM,DigiKeys,$1.64,$1.64,https://www.digikey.com/en/products/detail/bourns-inc/PTA3043-2010CPB103/3820419
-
-Estimated total shipping,1,DigiKeys Amazon JLCPCB,$12.83,
-Total
+Raspberry Pi Pico,1,DigiKeys,$4.59,$4.59,https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793
+Switch Tactile SPST-NO 0.05A 24V,1,DigiKeys,$0.13,$0.26,https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536
+Switch Toggle SPDT 0.4VA 20V,1,DigiKeys,$3.94,$3.94,https://www.digikey.com/en/products/detail/e-switch/200MSP1T1B2M2RE/4027688
+Slide Pot 10K OHM 0.2W TOP 30MM,1,DigiKeys,$1.64,$1.64,https://www.digikey.com/en/products/detail/bourns-inc/PTA3043-2010CPB103/3820419
+Estimated total shipping,1,DigiKeys Amazon JLCPCB,,$12,83,
