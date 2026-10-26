@@ -5,3 +5,5 @@ It features a full 12 note octave, and also the keys are mechnical keyboards. Al
 This is what it looks like, and as you can see all of the parts are on the top right, art on top left, and keys down at the bottom. I think it looks pretty cool.
 <img width="1051" height="398" alt="3drender" src="https://github.com/user-attachments/assets/53205271-fca3-46e1-9bbc-688e24bc7124" />
 This is what it will look like when it's done, just with actual keycaps on there. So don't worry, it will look a lot nicer.
+<img width="1122" height="317" alt="week3bom" src="https://github.com/user-attachments/assets/8ecb4745-5644-4980-b322-28034528570e" />
+This is the bill of materials.
